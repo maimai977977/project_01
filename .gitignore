@@ -1,0 +1,4 @@
+# 忽略 idnex.css
+idnex.css
+# 忽略test目录下所有文件
+test/
